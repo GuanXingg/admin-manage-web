@@ -1,0 +1,16 @@
+.l-wide {
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+.flex-center {
+  @include flexCenter(center);
+}
+
+.flex-center-ver {
+  @include flexCenter(ver);
+}
+
+.flex-center-hor {
+  @include flexCenter(hor);
+}
