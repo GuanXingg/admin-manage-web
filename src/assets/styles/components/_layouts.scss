@@ -7,10 +7,10 @@
   @include flexCenter(center);
 }
 
-.flex-center-ver {
+.flex-ver {
   @include flexCenter(ver);
 }
 
-.flex-center-hor {
+.flex-hor {
   @include flexCenter(hor);
 }
